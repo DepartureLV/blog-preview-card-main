@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned that <figure> tag can be used as self-contained content, potentially with an optional caption, which is specified using the <figcaption> element.
+I learned that 'Figure' tag can be used as self-contained content, potentially with an optional caption, which is specified using the 'figcaption' element.
 
 ```html
 <figure class="Head-container">
