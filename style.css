@@ -92,3 +92,8 @@ footer p {
   font-size: 12px;
   font-weight: 700;
 }
+
+/* hover section */
+main h1:hover {
+  color: var(--primary-color);
+}
