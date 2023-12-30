@@ -45,33 +45,30 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-!!!This part below will be revise when i'm done with the code in the final commit
-
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+I learned that <figure> tag can be used as self-contained content, potentially with an optional caption, which is specified using the <figcaption> element.
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<figure class="Head-container">
+  <img src="./assets/images/illustration-article.svg" alt="illustration" />
+  <figcaption class="card-tag">Learning</figcaption>
+  <figcaption class="publish-date">Published 21 Dec 2023</figcaption>
+</figure>
 ```
 
+I learned that I can set variable to use repeatedly in many sections by using :root then add --(variable name): (CSS value)
+
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+:root {
+  --primary-color: rgb(245, 208, 78);
+}
+. . . .card-tag {
+  background-color: var(--primary-color);
 }
 ```
 
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉');
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+### !!!This part below will be revise when i'm done with the code in the final commit
 
 ### Continued development
 
