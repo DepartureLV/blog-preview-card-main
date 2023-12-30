@@ -33,7 +33,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/screenshot1.jpg)
+![solution screenshot (Desktop)](./screenshot/Solution%20Screenshot%20Desktop.png.jpg)
+![solution screenshot (Mobile)](./screenshot/Solution%20Screenshot%20Mobile.png)
 
 ## My process
 
