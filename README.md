@@ -15,8 +15,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 - the challenge is to use the understanding in HTML and CSS to create a preview card.
