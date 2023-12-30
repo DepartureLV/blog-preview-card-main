@@ -13,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   <!-- - [Continued development](#continued-development)
   - [Useful resources](#useful-resources) -->
   <!-- - [Author](#author)
-- [Acknowledgments](#acknowledgments) -->
+  <!-- - [Acknowledgments](#acknowledgments) -->
 
 ## Task list
 
@@ -73,7 +73,7 @@ I learned that I can set variable to use repeatedly in many sections by using :r
 }
 ```
 
-### !!!This part below will be revise when i'm done with the code in the final commit
+<!-- ### !!!This part below will be revise when i'm done with the code in the final commit
 
 ### Continued development
 
@@ -100,4 +100,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.** -->
