@@ -10,17 +10,16 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  <!-- - [Continued development](#continued-development)
+  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources) -->
-  <!-- - [Author](#author)
-  <!-- - [Acknowledgments](#acknowledgments) -->
+  - [Author](#author)
 
 ## Task list
 
 - [x] build HTML
 - [x] style with pure CSS
-- [ ] complete the hover CSS
-- [ ] minor fix (font size, font weight, color, padding, margin, gap, etc.)
+- [x] complete the hover CSS
+- [x] minor fix (font size, font weight, color, padding, margin, gap, etc.)
 
 ## Overview
 
@@ -73,31 +72,20 @@ I learned that I can set variable to use repeatedly in many sections by using :r
 }
 ```
 
-<!-- ### !!!This part below will be revise when i'm done with the code in the final commit
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- **clean code**
+  - some CSS and html is not fully cleaned up, so i may clean it up later.
+- **responsive**
+  - because the mobile and desktop provided design are the same, I coded it with the fixed width and height for the card. but I assumed that the card should be responsive to the screen size. I will improve it later.
+  - the hover state preview showed that the **Title** should turn yellow when hovering over. but it also shows that it is clickable too. So this may lead to somewhere. I will take this as a future extension part of this mini-project.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Transition Generator](https://webcode.tools/css-generator/transition) - This helped me figure out which parameters should I use for the transition of the card.
+- [README preview](https://readme.so/editor) - Because i'm new to Github readme. This is an amazing tool which helped me to look at the final version of the README which will be shown in the repository.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.** -->
+- LinkedIn - [Nattawat Pitikomon](https://www.linkedin.com/in/nattawat-pitikomon/)
+- Frontend Mentor - [@departureLV](https://www.frontendmentor.io/profile/DepartureLV)
