@@ -52,7 +52,8 @@ Users should be able to:
 
 ### What I learned
 
-I learned that 'Figure' tag can be used as self-contained content, potentially with an optional caption, which is specified using the 'figcaption' element.
+~~I learned that 'Figure' tag can be used as self-contained content, potentially with an optional caption, which is specified using the 'figcaption' element.~~
+Thanks to [@xphstos](https://www.frontendmentor.io/solutions/cardbox-using-pure-css-and-figure-tag-in-html-bM89OA-QOL#comment-659040ac7869d8b98a3fd58e:~:text=%40DepartureLV%20Yes%20a,for%20the%20date.) comment, I decided to remove **figure** and **figcapture**, and replace with plain **img** **div** and **time** tag
 
 ```html
 <figure class="Head-container">
